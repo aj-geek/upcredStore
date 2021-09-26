@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/upcredStore/static/css/main.22b2bd63.chunk.css",
+    "main.js": "/upcredStore/static/js/main.a7207216.chunk.js",
+    "main.js.map": "/upcredStore/static/js/main.a7207216.chunk.js.map",
+    "runtime-main.js": "/upcredStore/static/js/runtime-main.cfe3061c.js",
+    "runtime-main.js.map": "/upcredStore/static/js/runtime-main.cfe3061c.js.map",
+    "static/css/2.f2512455.chunk.css": "/upcredStore/static/css/2.f2512455.chunk.css",
+    "static/js/2.9ca4b126.chunk.js": "/upcredStore/static/js/2.9ca4b126.chunk.js",
+    "static/js/2.9ca4b126.chunk.js.map": "/upcredStore/static/js/2.9ca4b126.chunk.js.map",
+    "static/js/3.47ec7885.chunk.js": "/upcredStore/static/js/3.47ec7885.chunk.js",
+    "static/js/3.47ec7885.chunk.js.map": "/upcredStore/static/js/3.47ec7885.chunk.js.map",
+    "index.html": "/upcredStore/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/upcredStore/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.22b2bd63.chunk.css.map": "/upcredStore/static/css/main.22b2bd63.chunk.css.map",
+    "static/js/2.9ca4b126.chunk.js.LICENSE.txt": "/upcredStore/static/js/2.9ca4b126.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfe3061c.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.9ca4b126.chunk.js",
+    "static/css/main.22b2bd63.chunk.css",
+    "static/js/main.a7207216.chunk.js"
+  ]
+}
